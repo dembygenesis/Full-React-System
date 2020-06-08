@@ -1,0 +1,13 @@
+.ModalContent {
+    position: fixed;
+    margin: 0 auto;
+    height: 200px;
+    width: 400px;
+    z-index: 501;
+    background-color: white;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 1px 1.5px 1px black;
+    padding: 20px;
+}
